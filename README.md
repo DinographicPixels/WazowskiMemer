@@ -8,4 +8,4 @@ A Fun/Currency &amp; Utility Discord Bot, also if you search an open source of W
 </a>
 
 <a href="https://botsfordiscord.com/bots/757307068943302776" >
-            <img src="https://botsfordiscord.com/api/bot/757307068943302776/widget" title="Visit Wazowski Memer listed on Bots for Discord!" alt="Wazowski Memer's Widget Failed to Load" /></a>
+            <img src="https://botsfordiscord.com/api/bot/757307068943302776/widget?theme=black" title="Visit Wazowski Memer listed on Bots for Discord!" alt="Wazowski Memer's Widget Failed to Load" /></a>
