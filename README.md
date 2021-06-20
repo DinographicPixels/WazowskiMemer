@@ -1,5 +1,5 @@
 # WazowskiMemer
-A Fun/Currency &amp; Utility Discord Bot, also if you search an open source of Wazowski Memer, you can't found one. Wazowski Memer isn't open source.
+A Fun/Currency &amp; Utility Discord Bot, also if you search an open source of Wazowski Memer, you can't find one. Wazowski Memer isn't open source.
 
 # Also available on
 
