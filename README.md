@@ -6,6 +6,9 @@ Hold on! You thought the open was open source? Well, some bad news for you..
 
 Wazowski Memer isn't open source, no file with code are included in this repository.
 
+## Need to report a bug or request a feature?
+Easy! You can create issues (issues can be used for feature requests, bugs & more): [click here! easy right?](https://github.com/DinographicPixels/WazowskiMemer/issues)
+
 
 # Available on:
 
