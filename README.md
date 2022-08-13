@@ -9,6 +9,12 @@ Wazowski Memer isn't open source, no file with code are included in this reposit
 ## Need to report a bug or request a feature?
 Easy! You can create issues (issues can be used for feature requests, bugs & more): [click here! easy right?](https://github.com/DinographicPixels/WazowskiMemer/issues)
 
+## Additional links
+### [Wazowski Memer Homepage](https://dinographicpixels.com/WazowskiMemer/)
+### [Pricacy Policy (the thing nobody reads)](https://dinographicpixels.com/WazowskiMemer/Privacy-Policy)
+### [Invite link (admin perm to enable us to dev more features, we won't raid, promise!)](https://discord.com/oauth2/authorize?client_id=757307068943302776&scope=bot&permissions=8)
+### [Discord server, better report issues on GitHub :)](https://discord.gg/UgPRaGRkrQ)
+
 
 # Available on:
 
