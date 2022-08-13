@@ -1,3 +1,3 @@
-Wazowski Memer has been made entierly by PakkoGraphic
+Wazowski Memer is a project built by PakkoGraphic.
 
-Wazowski Memer integrated DinographicPixels LLC, The bot isn't open source, no bots files will be here.
+Wazowski Memer is a DinographicPixels LLC property. Note that Wazowski Memer isn't open source, no file containing code is included in this repository.
